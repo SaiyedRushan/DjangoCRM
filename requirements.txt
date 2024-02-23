@@ -1,0 +1,4 @@
+django
+python-decouple
+mysql
+mysql-connector-python
